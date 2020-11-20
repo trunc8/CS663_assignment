@@ -1,5 +1,7 @@
 # CS663_Assignments
 
+CS663 [Digital Image Processing], Autumn 2019
+
 ## Authors
 
 * **Siddharth Saha** - [trunc8](https://github.com/trunc8)
